@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Instruction for login hincare-server and Data explanation</title>
+</head>
+<body>
+
+<h2>Instruction for login hincare-server</h2>
+<h3>Author: Wenya Sun</h3>
+
+<ol>
+<li>connect to HKUCS server using your cs account</li>
+<li>ssh username@gatekeeper(147.8.179.11)  
+</li>
+<li>ssh username@hincare-server(147.8.179.88)
+</li>
+<li>access data by: cd /home/wysun/COVID/</li>
+</ol>
+
+<h3>install anaconda(for your first login)</h3>
+<ol>
+    <li>wget https://repo.anaconda.com/archive/Anaconda3-2020.02-Linux-x86_64.sh</li>
+    <li>bash Anaconda3-2020.02-Linux-x86_64.sh</li>
+    <li>export PATH=/home/username/anaconda3/bin:$PATH</li>
+    <li>python3</li>
+</ol>
+
+
+<h3>For later login, type in following command to use anaconda: </h3>
+<ol>
+1. export PATH=/home/username/anaconda3/bin:$PATH
+</ol>
+
+<h2>Data explanation</h2>
+<p>
+<ul>
+    <li>data location: COVID/data</li>
+    <li>There are 4 subfolders: 
+        <ul>
+        <li>Jan(31 files): 
+            CSC_Txn_0101.csv
+            ...
+            CSC_Txn_0131.csv</li>
+        <li>Feb(29 files):
+    CSC_Txn_0201.csv
+    ...
+    CSC_Txn_0229.csv </li>
+    <li>Mar(31 files):
+    CSC_Txn_0301.csv
+    ...
+    CSC_Txn_0331.csv</li>
+    <li>
+      SJSC(91 files):
+    SJSC_Txn_0101.csv
+    ...
+    SJSC_Txn_0331.csv
+  
+    </li>
+        </ul>
+
+    </li>
+</ul>
+
+
+
+
+
+To summarize, the dataset contains CSC_Txn.csv and SJSC_Txn.csv for 91 days(from Jan 01 - Mar 31).<br>
+<ul>
+    <li>Formats of CSC_Txn.csv file:<br>
+        SJSC_ID,BUSINESS_DT,TXN_DT,TXN_TYPE_CO,TXN_SUBTYPE_CO,ENTRY_STN,TXN_LOC</li>
+
+    <li>Formats of SJSC_Txn.csv file:<br>
+CSC_PHY_ID,BUSINESS_DT,TXN_DT,TXN_TYPE_CO,TXN_SUBTYPE_CO,TRAIN_ENTRY_STN,TXN_LOC</li>
+</ul>
+But the  meaning of columns in the two types of CSV files are not very clear... 
+
+</p>
+  
+</body>
+</html>

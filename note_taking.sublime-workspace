@@ -1,0 +1,616 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"num",
+				"num_examples_seen\tstatement"
+			],
+			[
+				"tas",
+				"task_4\tstatement"
+			],
+			[
+				"sub",
+				"subtask_25\tstatement"
+			],
+			[
+				"ta",
+				"task_1\tstatement"
+			],
+			[
+				"subs",
+				"subtask_24"
+			],
+			[
+				"ma",
+				"make_svg_for_tasks\tfunction"
+			],
+			[
+				"d",
+				"develop\tstatement"
+			],
+			[
+				"date",
+				"datetime\tmodule"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Huawei.md",
+			"settings":
+			{
+				"buffer_size": 229,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/wenyasun/Documents/sublime_docs/py_codes/helloworld.ipynb",
+			"settings":
+			{
+				"buffer_size": 132,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"PdfLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Conda/Conda.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ope",
+				"Open Current Notebook As Ipynb File"
+			],
+			[
+				"I",
+				"Open IPython Notebook"
+			],
+			[
+				"i",
+				"Restart IPython Notebook Kernel"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"inst",
+				"Conda: Install Package"
+			],
+			[
+				"add re",
+				"Package Control: Add Repository"
+			],
+			[
+				"",
+				"Set Syntax: Git Commit"
+			],
+			[
+				"Image",
+				"MarkdownEditing: New Image"
+			],
+			[
+				"Pr",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Previw",
+				"MarkdownLivePreview: Open Preview"
+			],
+			[
+				"pre",
+				"MarkdownLivePreview: Open Preview"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"INST",
+				"Package Control: Install Package"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"gitc",
+				"Git: Commit"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"dd",
+			"mkdir cvs",
+			"pip3 install tensorflow",
+			"python",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/wenyasun/Documents/sublime_docs",
+		"/Users/wenyasun/Documents/sublime_docs/notes",
+		"/Users/wenyasun/Documents/sublime_docs/notes/images",
+		"/Users/wenyasun/Documents/sublime_docs/py_codes"
+	],
+	"file_history":
+	[
+		"/Users/wenyasun/Documents/sublime_docs/notes/Huawei.html",
+		"/Users/wenyasun/Library/Application Support/Sublime Text 3/Packages/User/Markdown (Standard).sublime-settings",
+		"/Users/wenyasun/Documents/sublime_docs/py_codes/helloworld.py",
+		"/Users/wenyasun/Documents/sublime_docs/notes/Huawei.md",
+		"/Users/wenyasun/Documents/sublime_docs/notes/MTR_project_spec.md",
+		"/Users/wenyasun/Documents/sublime_docs/notes/Plan_April20.md",
+		"/Users/wenyasun/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/wenyasun/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/wenyasun/Google Drive/MTR_Project/MTR PoC2/SICP log/08Feb19_1721.rpt",
+		"/Users/wenyasun/Google Drive/my_notes/notes/Internal Meeting꞉ April 14 (2).md",
+		"/Users/wenyasun/Documents/sublime_docs/notes/Huawei",
+		"/Users/wenyasun/Documents/sublime_docs/algo.tex",
+		"/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-macnew.def",
+		"/Users/wenyasun/Google Drive/MTR_Project/DOC/Delay Calculation/delay_calculation_doc.html",
+		"/Users/wenyasun/Google Drive/my_notes/notes/Assignments.md",
+		"/Users/wenyasun/Google Drive/my_notes/notes/NN_tutorial.md",
+		"/Users/wenyasun/Google Drive/my_notes/notes/My first pytorch try.md",
+		"/Users/wenyasun/Downloads/me-master/index.html",
+		"/Users/wenyasun/PycharmProjects/06Dec19_0032.rpt",
+		"/Users/wenyasun/Google Drive/MTR_Project/data/04Aug19_2308.rpt",
+		"/Users/wenyasun/Documents/Reynold/TA/Cluster_dataset/Readme.txt",
+		"/Users/wenyasun/Downloads/my courses/Nikos/assignment/final_project/latex/normal/sigproc-sp-csis8101.bib",
+		"/Users/wenyasun/Downloads/my courses/Nikos/assignment/final_project/latex/normal/acm_proc_article-csis8101.cls",
+		"/Users/wenyasun/Downloads/my courses/Nikos/assignment/final_project/latex/normal/graphic_paper_reading.tex",
+		"/Users/wenyasun/Downloads/my courses/Nikos/assignment/final_project/latex/normal/sigproc-sp-csis8101.tex",
+		"/usr/local/texlive/2019/texmf-dist/tex/latex/auto-pst-pdf/auto-pst-pdf.sty",
+		"/Users/wenyasun/PycharmProjects/mtr-simulator/dataset/KTL timetable/sunday_tb_full.csv",
+		"/Users/wenyasun/Documents/latex paper/MTR_proposal/mainMTR.tex",
+		"/Users/wenyasun/Documents/latex paper/MTR_proposal/refMTR.bib",
+		"/Users/wenyasun/Documents/latex paper/MTR_proposal/mtr_simulation.tex",
+		"/Users/wenyasun/Documents/MTR/MTR_proposal/main_grapAss.pdf",
+		"/Users/wenyasun/Documents/MTR/MTR_proposal/refMTR.bib",
+		"/Users/wenyasun/Documents/MTR/MTR_proposal/main_grapAss.tex",
+		"/Users/wenyasun/Documents/MTR/data/trajectory_Aug_04.txt",
+		"/Users/wenyasun/Documents/Git/My-DB-assignment/dataset/title.episode.tsv",
+		"/Users/wenyasun/Documents/Git/My-DB-assignment/dataset/title.basics.tsv",
+		"/Users/wenyasun/Documents/Git/MTR-simulator/dataset/04Aug19_2308.rpt",
+		"/Users/wenyasun/Documents/Git/MTR-simulator/dataset/04Aug19_2208.rpt",
+		"/Users/wenyasun/Documents/Git/MTR-simulator/dataset/04Aug19_2108.rpt",
+		"/Users/wenyasun/Downloads/MTR/08Feb19_1721.rpt",
+		"/Users/wenyasun/Documents/Git/MTR_Simulation/dataset/2019-02-08TSSWReport10.txt",
+		"/Users/wenyasun/Downloads/my courses/Nikos/Project/latex/normal/acm_proc_article-csis8101.cls",
+		"/Users/wenyasun/Downloads/my courses/Nikos/Project/latex/normal/sigproc-sp-csis8101.tex",
+		"/Users/wenyasun/Downloads/08Feb19_1721.rpt",
+		"/usr/local/texlive/2019/texmf-dist/tex/latex/caption/subcaption.sty",
+		"/Users/wenyasun/Documents/main_paratransit/G2/content.tex",
+		"/Users/wenyasun/Documents/MTR/MTR_proposal/testref/main.tex",
+		"/Users/wenyasun/Documents/MTR/MTR_proposal/testref/ref.bib",
+		"/Users/wenyasun/Documents/MTR/MTR_proposal/styleMTR.tex",
+		"/Users/wenyasun/Documents/Git/GantChart/gantt1.py",
+		"/Users/wenyasun/Documents/Git/GantChart/paratransit_Gantt.py",
+		"/Users/wenyasun/Library/Application Support/Sublime Text 3/Packages/Anaconda/Default (OSX).sublime-keymap",
+		"/Users/wenyasun/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/wenyasun/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/wenyasun/Library/Application Support/Sublime Text 3/Packages/User/ipython.sublime-build",
+		"/Users/wenyasun/Downloads/main/CV/resume.cls",
+		"/Users/wenyasun/Downloads/main/materials.tex",
+		"/Users/wenyasun/Downloads/main/materials/materials.tex",
+		"/Users/wenyasun/Documents/Git/paratransit/README.md",
+		"/Users/wenyasun/Library/Application Support/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/Users/wenyasun/Documents/Git/paratransit/data_obj.py",
+		"/Users/wenyasun/Library/Application Support/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/Users/wenyasun/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/wenyasun/Library/Application Support/Sublime Text 3/Packages/User/python3.sublime-build"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Huawei.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 229,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								229,
+								229
+							]
+						],
+						"settings":
+						{
+							"SL.25.region_keys":
+							[
+							],
+							"parser": "markdown",
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax",
+							"target": "browser"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/wenyasun/Documents/sublime_docs/py_codes/helloworld.ipynb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 132,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								132,
+								132
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 120.0
+	},
+	"output.exec":
+	{
+		"height": 164.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 120.0
+	},
+	"output.latextools":
+	{
+		"height": 327.0
+	},
+	"output.markdown":
+	{
+		"height": 132.0
+	},
+	"pinned_build_system": "",
+	"project": "note_taking.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"acm_proc_article-csis8101.cls"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/sublime_docs/notes/note_taking.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

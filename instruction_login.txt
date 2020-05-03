@@ -1,0 +1,46 @@
+
+Instruction for login hincare-server
+1. connect to HKUCS server using your cs account
+2. ssh username@gatekeeper(147.8.179.11)  
+3. ssh username@hincare-server(147.8.179.88)
+
+install anaconda(for your first login)
+
+1. wget https://repo.anaconda.com/archive/Anaconda3-2020.02-Linux-x86_64.sh
+2. bash Anaconda3-2020.02-Linux-x86_64.sh
+3. export PATH=/home/username/anaconda3/bin:$PATH
+4. python3 
+
+For later login, type in following command to use anaconda: 
+1. export PATH=/home/username/anaconda3/bin:$PATH
+
+Data explanation
+data location: COVID/data
+There are 4 subfolders: 
+Jan(31 files): 
+    CSC_Txn_0101.csv
+    ...
+    CSC_Txn_0131.csv
+Feb(29 files):
+    CSC_Txn_0201.csv
+    ...
+    CSC_Txn_0229.csv 
+Mar(31 files):
+    CSC_Txn_0301.csv
+    ...
+    CSC_Txn_0331.csv
+SJSC(91 files):
+    SJSC_Txn_0101.csv
+    ...
+    SJSC_Txn_0331.csv
+
+To summarize, the dataset contains CSC_Txn.csv and SJSC_Txn.csv for 91 days(from Jan 01 - Mar 31).
+
+Formats of CSC_Txn.csv file:
+SJSC_ID,BUSINESS_DT,TXN_DT,TXN_TYPE_CO,TXN_SUBTYPE_CO,ENTRY_STN,TXN_LOC
+
+Formats of SJSC_Txn.csv file:
+CSC_PHY_ID,BUSINESS_DT,TXN_DT,TXN_TYPE_CO,TXN_SUBTYPE_CO,TRAIN_ENTRY_STN,TXN_LOC
+
+But the  meaning of columns in the two types of CSV files are not very clear... 
+
